@@ -1,1 +1,6 @@
 
+var body = $response.body;
+body = "7sbs9FsjMCqYvTNf/nT4bHdKg8dh99KiSrbMCHAob28UfYT43td0zm9voG86QJbmHoUDj0IQkmxZPKNi/ZkL595n6ufEEuu2Mf8uQqCOxxwTpPP0+vBknoQY2QH2TQyoULiZlew8Llnafwz1LTSIuF1bMtyw1RJk7JWosCMq2rU4kTf27eVoQBvYku+9QKt4SXfb2DOVXdqrray6nGfOqBhdLllQZ//QNKEnjW6Cn+635qMpYwgDBRCHaH2/ZD0mt3IBtEfFhVCEr5bX8Z6mbrVb7OuJNI9UN1XHBa2jGQZWaoXEu74URT/Fr6tBNOaeXA9WYe68bOrWRNqDvnjJBZKGG8w6hS+/SS77QNE1Akg=";
+$done({
+    body
+});
