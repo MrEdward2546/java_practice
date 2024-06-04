@@ -22,7 +22,7 @@ body = {"code":200,"data":{
   registerIP: '111.30.64.94',
   mobile: '',
   gender: '',
-  name: '宰群皓',
+  name: 'demo',
   portrait: 'image/75/fj/s5/b4/afeeaada5460465982cc8539d7c1ff03.jpeg',
   summary: '',
   region: '',
