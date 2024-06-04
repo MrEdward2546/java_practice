@@ -100,7 +100,7 @@ body = {
         current: 0,
         limit: 0
     },
-    "hash": true,
+    "hash": false,
     "msg": "success",
     "time": "2024-06-04T13:41:46.644Z",
     "tip": ""
