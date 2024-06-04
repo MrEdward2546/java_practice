@@ -100,5 +100,5 @@ body = {"code":200,"data":{
   limit: 0
 }"hash":false,"msg":"success","time":"2024-06-04T07:14:25.183Z","tip":""};
 $done({
-    body
+    JSON.stringify(obj)
 });
